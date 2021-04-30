@@ -33,6 +33,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (finalizado em 15/03/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampHtmlWebDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -49,6 +52,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Impulso FullStack Developer (finalizado em 18/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampFullStackDeveloperBancoCarrefour.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS, Cypress| none |
@@ -71,6 +77,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (finalizado em 21/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampMrvDotNetDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
@@ -88,18 +97,25 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (finalizado em 24/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampBackendDeveloperCarrefour.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label: Fullstack Developer Banco Carrefour (finalizado em 24/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampFullStackDeveloperBancoCarrefour.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label: Java Developer (finalizado em 24/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot| none |
@@ -139,6 +155,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: JavaScript Game Developer (finalizado em 24/04/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaScriptGamedeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -182,6 +201,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: LocalizaLabs .NET Developer (finalizado em 9/05/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampLocalizaLabsDotNetDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
@@ -202,6 +224,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (finalizado em 9/05/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampInterJavaDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
@@ -222,6 +247,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (finalizado em 9/05/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampEverisKotlinDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Desafio|Soma simples            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
@@ -238,6 +266,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (finalizado em 9/05/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampAvanadeAngularDeveloper.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -257,7 +288,26 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Take Blip Fullstack Developer (finalizado em 12/07/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampTakeBlipFullstackDeveloper.png" /> </a> 
+
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Code Anywhere (finalizado em 12/07/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampCodeAnywhere.png" /> </a> 
+
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:yellow_circle:|Projeto|API de Criptomoedas                  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript| none |
@@ -265,16 +315,25 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: SPTech Desenvolvimento Back-end (finalizado em 22/08/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoBackEnd.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: SPTech Desenvolvimento FullStack (finalizado em 22/08/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoFullStack.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Alura| Barbearia Alura         |<a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>        |Html5, Css3, Javascript, Html5, Css3|
@@ -285,6 +344,9 @@ A situação de cada um deles segue esta legenda:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Udacity (finalizado em ????? Android Developer Nanodegree)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Udacity|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
