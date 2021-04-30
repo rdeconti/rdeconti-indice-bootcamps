@@ -12,7 +12,7 @@ A situação de cada um deles segue esta legenda:
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Bootcamp .NET Fundamentals (finalizado em 14/03/2021)
+## :label: Digital Innovation One - Bootcamp: .NET Fundamentals (finalizado em 14/03/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
 
@@ -31,7 +31,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Bootcamp HTML Web Developer (finalizado em 15/03/2021)
+## :label: Digital Innovation One - Bootcamp: HTML Web Developer (finalizado em 15/03/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampHtmlWebDeveloper.png" /> </a> 
 
@@ -50,7 +50,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Impulso FullStack Developer (finalizado em 18/04/2021)
+## :label: Digital Innovation One - Bootcamp: Impulso FullStack Developer (finalizado em 18/04/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampFullStackDeveloperBancoCarrefour.png" /> </a> 
 
@@ -75,7 +75,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Acima diagonal principal  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: MRV .NET Developer (finalizado em 21/04/2021)
+## :label: Digital Innovation One - Bootcamp: MRV .NET Developer (finalizado em 21/04/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampMrvDotNetDeveloper.png" /> </a> 
 
@@ -95,7 +95,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Java Developer (finalizado em 24/04/2021)
+## :label: Digital Innovation One - Bootcamp: Java Developer (finalizado em 24/04/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaDeveloper.png" /> </a> 
 
@@ -137,7 +137,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: JavaScript Game Developer (finalizado em 24/04/2021)
+## :label: Digital Innovation One - Bootcamp: JavaScript Game Developer (finalizado em 24/04/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaScriptGamedeveloper.png" /> </a> 
 
@@ -183,7 +183,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Atalho para Webblogger Brasil         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Atalho-Para-Webblogger-Brasil">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: LocalizaLabs .NET Developer (finalizado em 9/05/2021)
+## :label: Digital Innovation One - Bootcamp: LocalizaLabs .NET Developer (finalizado em 9/05/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampLocalizaLabsDotNetDeveloper.png" /> </a> 
 
@@ -206,7 +206,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Inter Java Dev (finalizado em 9/05/2021)
+## :label: Digital Innovation One - Bootcamp: Inter Java Dev (finalizado em 9/05/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampInterJavaDeveloper.png" /> </a> 
 
@@ -229,7 +229,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Everis Kotlin Developer (finalizado em 9/05/2021)
+## :label: Digital Innovation One - Bootcamp: Everis Kotlin Developer (finalizado em 9/05/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampEverisKotlinDeveloper.png" /> </a> 
 
@@ -248,7 +248,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Bob conduíte            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Bob-Conduite">Clique-me</a>|Kotlin|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Avanade Angular Developer (finalizado em 9/05/2021)
+## :label: Digital Innovation One - Bootcamp: Avanade Angular Developer (finalizado em 9/05/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampAvanadeAngularDeveloper.png" /> </a> 
 
@@ -271,7 +271,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Take Blip Fullstack Developer (finalizado em 12/07/2021)
+## :label: Digital Innovation One - Bootcamp: Take Blip Fullstack Developer (finalizado em 12/07/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampTakeBlipFullstackDeveloper.png" /> </a> 
 
@@ -293,7 +293,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Cardápio Aéreo            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Cardapio-Aereo">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Code Anywhere (finalizado em 12/07/2021)
+## :label: Digital Innovation One - Bootcamp: Code Anywhere (finalizado em 12/07/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampCodeAnywhere.png" /> </a> 
 
@@ -303,7 +303,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|??????????????????????????????         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
+## :label: Digital Innovation One - Bootcamp: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoFrontEnd.png" /> </a> 
 
@@ -313,7 +313,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Projeto|Covid-19 Pelo Munod                  |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19">Clique-me</a> |ReactJs|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label:  Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
+## :label: Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
 
 <a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Oracle%20-%20Logotipo.png" /> </a> 
 
