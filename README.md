@@ -14,8 +14,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (finalizado em 14/03/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
-
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -34,7 +33,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (finalizado em 15/03/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampHtmlWebDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampHtmlWebDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -53,7 +52,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Impulso FullStack Developer (finalizado em 18/04/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampFullStackDeveloperBancoCarrefour.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampFullStackDeveloperBancoCarrefour.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -78,7 +77,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (finalizado em 21/04/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampMrvDotNetDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampMrvDotNetDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -98,7 +97,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Java Developer (finalizado em 24/04/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -140,7 +139,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: JavaScript Game Developer (finalizado em 24/04/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaScriptGamedeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampJavaScriptGamedeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -186,7 +185,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: LocalizaLabs .NET Developer (finalizado em 9/05/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampLocalizaLabsDotNetDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampLocalizaLabsDotNetDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -209,7 +208,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (finalizado em 9/05/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampInterJavaDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampInterJavaDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -232,7 +231,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (finalizado em 9/05/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampEverisKotlinDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampEverisKotlinDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -251,7 +250,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (finalizado em 9/05/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampAvanadeAngularDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampAvanadeAngularDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -274,7 +273,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Take Blip Fullstack Developer (finalizado em 12/07/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampTakeBlipFullstackDeveloper.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampTakeBlipFullstackDeveloper.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -293,7 +292,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Code Anywhere (finalizado em 12/07/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampCodeAnywhere.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampCodeAnywhere.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -303,7 +302,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoFrontEnd.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoFrontEnd.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -313,7 +312,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Oracle%20-%20Logotipo.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Oracle%20-%20Logotipo.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -326,7 +325,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Udacity (finalizado em ????? Android Developer Nanodegree)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Udacity%20-%20Logotipo.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="left" alt="Bootcamp" width="100%" height="100%" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Udacity%20-%20Logotipo.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
