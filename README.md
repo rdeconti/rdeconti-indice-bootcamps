@@ -257,14 +257,14 @@ A situação de cada um deles segue esta legenda:
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
-|:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular|
-|:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular|
-|:green_circle: |Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Comunicação em Piralândia             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
+|:green_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular|
+|:green_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular|
+|:green_circle:|Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Comunicação em Piralândia             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript|
@@ -278,6 +278,9 @@ A situação de cada um deles segue esta legenda:
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:green_circle:|Projeto|??????????????????????????????         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
+|:green_circle:|Desafio|??????????????????????????????         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Code Anywhere (finalizado em 12/07/2021)
@@ -286,11 +289,13 @@ A situação de cada um deles segue esta legenda:
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:green_circle:|Projeto|??????????????????????????????         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
+|:green_circle:|Desafio|??????????????????????????????         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampSPTechDesenvolvimentoFrontEnd.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
