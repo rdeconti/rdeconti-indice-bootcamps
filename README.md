@@ -299,8 +299,15 @@ A situação de cada um deles segue esta legenda:
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:green_circle:|Projeto|??????????????????????????????         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
-|:green_circle:|Desafio|??????????????????????????????         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
+|:green_circle:|Projeto|Gerenciador de pessoas       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot|
+|:green_circle:|Desafio|Exibindo números pares       |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java|
+|:green_circle:|Desafio|Entrada e saída de CPF       |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrada-E-Saida-De-CPF">Clique-me</a>|Java|
+|:green_circle:|Desafio|DDD                          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-DDD">Clique-me</a>|Java|
+|:green_circle:|Desafio|Cálculo de viagem            |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Calculo-De-Viagem">Clique-me</a>|Java|
+|:green_circle:|Desafio|Área do círculo              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Area-Do-Circulo">Clique-me</a>|Java|
+|:green_circle:|Desafio|Folha de pagamento           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java|
+|:green_circle:|Desafio|Múltiplos                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplos">Clique-me</a>|Java|
+|:green_circle:|Desafio|Análise de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One - Bootcamp: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
