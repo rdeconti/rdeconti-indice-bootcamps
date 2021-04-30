@@ -14,7 +14,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (finalizado em 14/03/2021)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/edit/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
