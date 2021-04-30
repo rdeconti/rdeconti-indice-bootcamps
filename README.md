@@ -3,7 +3,7 @@
 :spiral_calendar: Atualizado em 29 de Abril de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Aqui estão todos os bootcamps que participei com a relação dos projetos e desafios:
+## Aqui estão todos os bootcamps nos quais participei e com a relação dos projetos e desafios executados:
 A situação de cada um deles segue esta legenda: 
 - :white_circle: Em aberto
 - :yellow_circle: Em andamento
