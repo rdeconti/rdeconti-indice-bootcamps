@@ -12,7 +12,11 @@ A situação de cada um deles segue esta legenda:
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
+## :label: Digital Innovation One Bootcamp .NET Fundamentals (finalizado em 14/03/2021)
+
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/edit/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+
+
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
@@ -28,7 +32,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
+## :label: Digital Innovation One Bootcamp HTML Web Developer (finalizado em 15/03/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -44,7 +48,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Impulso FullStack Developer (18/04/2021)
+## :label: Impulso FullStack Developer (finalizado em 18/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS, Cypress| none |
@@ -66,7 +70,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Acima diagonal principal |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby| 1183 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: MRV .NET Developer (21/04/2021)
+## :label: MRV .NET Developer (finalizado em 21/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
@@ -83,19 +87,19 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp| 1036 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Backend Developer Carrefour (24/04/2021)
+## :label: Backend Developer Carrefour (finalizado em 24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Fullstack Developer Banco Carrefour (24/04/2021)
+## :label: Fullstack Developer Banco Carrefour (finalizado em 24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Java Developer (24/04/2021)
+## :label: Java Developer (finalizado em 24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot| none |
@@ -134,7 +138,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:   |Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: JavaScript Game Developer (24/04/2021)
+## :label: JavaScript Game Developer (finalizado em 24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -177,7 +181,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Desafio|Atalho para Webblogger Brasil         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Atalho-Para-Webblogger-Brasil">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: LocalizaLabs .NET Developer (9/05/2021)
+## :label: LocalizaLabs .NET Developer (finalizado em 9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
@@ -197,7 +201,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Inter Java Dev (9/05/2021)
+## :label: Inter Java Dev (finalizado em 9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
@@ -217,7 +221,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Everis Kotlin Developer (9/05/2021)
+## :label: Everis Kotlin Developer (finalizado em 9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Desafio|Soma simples            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
@@ -233,7 +237,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Desafio|Bob conduíte            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Bob-Conduite">Clique-me</a>|Kotlin none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Avanade Angular Developer (9/05/2021)
+## :label: Avanade Angular Developer (finalizado em 9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
@@ -253,24 +257,24 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: SPTech Desenvolvimento Front-end (22/08/2021)
+## :label: SPTech Desenvolvimento Front-end (finalizado em 22/08/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:yellow_circle:|Projeto|API de Criptomoedas                  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript| none |
 |:yellow_circle:|Projeto|Covid-19 Pelo Munod                  |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19">Clique-me</a> |ReactJs| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: SPTech Desenvolvimento Back-end (22/08/2021)
+## :label: SPTech Desenvolvimento Back-end (finalizado em 22/08/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: SPTech Desenvolvimento FullStack (22/08/2021)
+## :label: SPTech Desenvolvimento FullStack (finalizado em 22/08/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
+## :label:  Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle: |Alura| Barbearia Alura         |<a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>        |Html5, Css3, Javascript, Html5, Css3|
@@ -280,7 +284,7 @@ A situação de cada um deles segue esta legenda:
 |:green_circle: |Alura| Conferência Alura       |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
+## :label:  Projetos do curso Udacity (finalizado em ????? Android Developer Nanodegree)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Udacity|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
