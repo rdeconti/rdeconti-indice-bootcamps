@@ -288,6 +288,9 @@ A situação de cada um deles segue esta legenda:
 |:green_circle:|Desafio|Pizza antes Final Ano     |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pizza-Antes-Do-Final-Do-Ano">Clique-me</a>|cSharp|
 |:green_circle:|Desafio|Ultrapassando V           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Ultrapassando-V">Clique-me</a>|cSharp|
 |:green_circle:|Desafio|Conversão do tempo        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Conversao-De-Tempo">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Coxinha de Bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Cardápio Aéreo            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Cardapio-Aereo">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Code Anywhere (finalizado em 12/07/2021)
