@@ -332,7 +332,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Oracle One - Alura - Labora (finalizado em ???? Front-End Developer)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Oracle%20-%20Logotipo.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -345,7 +345,7 @@ A situação de cada um deles segue esta legenda:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Udacity (finalizado em ????? Android Developer Nanodegree)
 
-<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/logotipoBootcampDotNetFundamentals.png" /> </a> 
+<a href="https://github.com/rdeconti/rdeconti-indice-bootcamps/blob/main/README.md"> <img align="right" alt="Bootcamp" width="200px" height="230px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Udacity%20-%20Logotipo.png" /> </a> 
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
